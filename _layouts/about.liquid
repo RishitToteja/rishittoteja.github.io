@@ -65,16 +65,16 @@ layout: default
     {% endif %}
 
     <!-- Current and Past Affiliations -->
-    {% assign affiliations = site.static_files | where: "path", "/assets/img/publication_preview/" %}
-      <div class="affiliations">
-        <h2>Current and Past Affiliations</h2>
-        <div class="affiliation-images">
-          {% for file in affiliations %}
-            <img src="{{ file.path }}" alt="Affiliation Image">
-          {% endfor %}
-        </div>
+    <div class="affiliations">
+      <h2>Current and Past Affiliations</h2>
+      <div class="affiliation-images">
+        <img src="/assets/img/publication_preview/image1.png" alt="Affiliation Image 1">
+        <img src="/assets/img/publication_preview/image2.png" alt="Affiliation Image 2">
+        <img src="/assets/img/publication_preview/image3.png" alt="Affiliation Image 3">
+        <!-- Add more images as necessary -->
       </div>
-
+    </div>
+    
     <!-- Social -->
     {% if page.social %}
       <div class="social">
