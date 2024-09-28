@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News ([Older](https://rishittoteja.github.io/news/))
+title: News
 permalink: /news/
 ---
 {% include news.liquid %}
