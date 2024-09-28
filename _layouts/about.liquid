@@ -65,17 +65,53 @@ layout: default
     {% endif %}
 
     <!-- Current and Past Affiliations -->
-    <div class="affiliations">
-      <h2>Current and Past Affiliations</h2>
-      <div class="affiliation-images">
-        <img src="/assets/img/affiliation_img/amazon_logo.png" alt="Affiliation Image 1">
-        <img src="/assets/img/affiliation_img/msft_logo.png" alt="Affiliation Image 2">
-        <img src="/assets/img/affiliation_img/dtu_logo.png" alt="Affiliation Image 3">
-        <img src="/assets/img/affiliation_img/bosch_logo.png" alt="Affiliation Image 4">
-        <img src="/assets/img/affiliation_img/samsung_logo.png" alt="Affiliation Image 5">
-        <!-- Add more images as necessary -->
-      </div>
-    </div>
+<div class="affiliations">
+  <h2>Current and Past Affiliations</h2>
+  <div class="affiliation-images">
+    <img src="/assets/img/publication_preview/image1.png" alt="Affiliation Image 1">
+    <img src="/assets/img/publication_preview/image2.png" alt="Affiliation Image 2">
+    <img src="/assets/img/publication_preview/image3.png" alt="Affiliation Image 3">
+    <img src="/assets/img/publication_preview/image4.png" alt="Affiliation Image 4">
+    <img src="/assets/img/publication_preview/image5.png" alt="Affiliation Image 5">
+    <img src="/assets/img/publication_preview/image6.png" alt="Affiliation Image 6">
+  </div>
+</div>
+
+<!-- CSS embedded inside the Liquid file -->
+<style>
+  .affiliations {
+    text-align: center;
+  }
+
+  .affiliation-images {
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    flex-wrap: wrap; /* Wrap images to next line if necessary */
+    gap: 20px; /* Space between images */
+  }
+
+  .affiliation-images img {
+    max-width: 100%; /* Ensure the images resize properly */
+    width: 30%; /* Each image takes up to 30% of the container width */
+    height: auto;
+  }
+
+  /* You can use this Grid alternative if you prefer */
+  /*
+  .affiliation-images {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    justify-items: center;
+    gap: 20px;
+  }
+
+  .affiliation-images img {
+    width: 150px;
+    height: auto;
+  }
+  */
+</style>
+
 
     <!-- Social -->
     {% if page.social %}
