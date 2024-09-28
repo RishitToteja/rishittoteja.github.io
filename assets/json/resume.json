@@ -83,45 +83,38 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "24-09-2021",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/verify/VZ9NWUAAZSYE",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Deep Learning Specialization",
+      "date": "19-08-2021",
+      "issuer": "DeepLearning.AI | Stanford University",
+      "url": "https://coursera.org/verify/specialization/2URGAXAWRLZV",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Applied Data Science Specialization",
+      "date": "02-07-2021",
+      "issuer": "University of Michigan",
+      "url": "https://coursera.org/verify/specialization/NXWJVGLTMCND",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "TensorFlow Developer",
+      "date": "14-09-2021",
+      "issuer": "Google | DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/M4ZVSMWKDF8H",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Generative Adversarial Networks (GANs)",
+      "date": "09-10-2021",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/TQL9MZC897LA",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
