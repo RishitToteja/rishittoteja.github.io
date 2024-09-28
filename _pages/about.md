@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.microsoft.com/en-us/research/group/prose/interns-research-fellows/'>Research Fellow at Microsoft Research</a>
 
