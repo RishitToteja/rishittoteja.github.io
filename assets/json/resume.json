@@ -62,22 +62,22 @@
       "institution": "Delhi Technological University",
       "location": "Delhi, India",
       "url": "https://www.dtu.ac.in/",
+      "area": "Minors: Computer Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2020",
+      "endDate": "2024",
+      "score": "10.00"
+    },
+    {
+      "institution": "Delhi Technological University",
+      "location": "Delhi, India",
+      "url": "https://www.dtu.ac.in/",
       "area": "Majors: Electrical Engineering",
       "studyType": "Bachelors",
       "startDate": "2020",
       "endDate": "2024",
       "score": "9.53",
       "courses": ["Department Gold Medalist"]
-    },
-    {
-      "institution": "Delhi Technological University",
-      "location": "Delhi, India",
-      "url": "https://www.dtu.ac.in/",
-      "area": "Minors: Computer Engineering",
-      "studyType": "Bachelors",
-      "startDate": "2020",
-      "endDate": "2024",
-      "score": "10.00"
     }
   ],
   "awards": [
