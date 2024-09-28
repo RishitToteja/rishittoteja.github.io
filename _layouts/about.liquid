@@ -22,9 +22,11 @@ layout: default
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% assign profile_image_class = 'img-fluid z-depth-1
+      rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -41,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        News (<a href="{{ '/news/' | relative_url }}">older</a>)
+        News (<a href="{{ '/news/' | relative_url }}" style="color: inherit">older</a>)
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -62,6 +64,19 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Current and Past Affiliations -->
+    {% assign affiliations = site.static_files | where: "path", "/assets/img/publication_preview/" %}
+    {% if affiliations.size > 0 %}
+      <div class="affiliations">
+        <h2>Current and Past Affiliations</h2>
+        <div class="affiliation-images">
+          {% for file in affiliations %}
+            <img src="{{ file.path }}" alt="Affiliation Image">
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -75,14 +90,5 @@ layout: default
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
 
-    <!-- Affiliations -->
-    {% if page.affiliations %}
-      <h2>Affiliations</h2>
-      <div class="affiliations">
-        {% for affiliation in page.affiliations %}
-          <img src="{{ 'imgs/' | append: affiliation.image }}" alt="{{ affiliation.name }}" class="affiliation-image">
-        {% endfor %}
-      </div>
-    {% endif %}
   </article>
 </div>
