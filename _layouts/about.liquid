@@ -79,24 +79,34 @@ layout: default
 
 <!-- CSS embedded inside the Liquid file -->
 <style>
+  /* Left-align the heading */
   .affiliations h2 {
-    text-align: left; /* Left-align the heading */
-    margin-bottom: 20px; /* Add some space between heading and images */
+    text-align: left;
+    margin-bottom: 20px;
   }
 
+  /* Style for the logo container */
   .affiliation-images {
     display: flex;
-    justify-content: center; /* Center images horizontally */
-    flex-wrap: wrap; /* Wrap to next line after 3 images */
-    gap: 20px; /* Horizontal and vertical space between images */
+    justify-content: center; /* Center the images */
+    flex-wrap: wrap; /* Allow wrapping of images to next row */
+    gap: 40px; /* Space between each logo */
+    margin-top: 20px;
   }
 
+  /* Style for the logos */
   .affiliation-images img {
-    max-width: 100%; /* Ensure images are responsive */
-    width: 30%; /* Adjust to have up to 3 images per row */
+    max-width: 150px; /* Control the maximum width of logos */
     height: auto; /* Maintain aspect ratio */
-    margin-bottom: 20px; /* Adds space between rows */
-    object-fit: contain; /* Ensures scaling without pixelation */
+    object-fit: contain; /* Ensure logos scale without pixelation */
+    margin-bottom: 20px; /* Add space below each logo */
+  }
+
+  /* Optional media query to handle responsiveness */
+  @media (max-width: 768px) {
+    .affiliation-images img {
+      max-width: 120px; /* Make logos smaller on smaller screens */
+    }
   }
 </style>
 
