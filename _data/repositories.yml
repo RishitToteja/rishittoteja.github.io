@@ -6,7 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - RishitToteja/ParkinSIGHT
   - RishitToteja/EACSM-Efficient-Active-Contour-Segmentation-Model
-  - twbs/bootstrap
-  - jquery/jquery
   - RishitToteja/parkinson_eeg_research
   - RishitToteja/Colorizing_Images
