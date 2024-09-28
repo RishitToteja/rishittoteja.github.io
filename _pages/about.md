@@ -29,6 +29,6 @@ Previously, I interned **twice** at **Amazon** as an **Applied Scientist**, wher
 
 I am proficient in **Python, C++, C#, C, Java, SQL, MATLAB**, and have experience with various libraries such as PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Scikit-learn, Pillow, Tesseract, Kraken, Matplotlib, NLTK, and NetworkX.
 
-I completed my **B.Tech in Electrical Engineering** with a **minor** in **Computer Engineering** from **Delhi Technological University**, graduating with an aggregate **GPA** of **9.53**, ranking 1st in my department.
+I completed my **B.Tech in Electrical Engineering** with a **minor** in **Computer Engineering** from **Delhi Technological University**, graduating with an aggregate **GPA** of **9.53**, ranking **1st** in my **department**.
 
 Outside of work, I am an avid chess and table tennis player.
