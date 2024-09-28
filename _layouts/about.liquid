@@ -84,32 +84,20 @@ layout: default
 
   .affiliation-images {
     display: flex;
-    justify-content: center; /* Center items horizontally */
-    flex-wrap: wrap; /* Wrap images to next line if necessary */
-    gap: 20px; /* Space between images */
+    justify-content: center; /* Center images horizontally */
+    flex-wrap: wrap; /* Wrap to next line after 3 images */
+    gap: 20px; /* Horizontal and vertical space between images */
   }
 
   .affiliation-images img {
-    max-width: 100%; /* Ensure the images resize properly */
-    width: 30%; /* Each image takes up to 30% of the container width */
-    height: auto;
+    max-width: 100%; /* Ensure images are responsive */
+    width: 30%; /* Adjust to have up to 3 images per row */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Adds space between rows */
+    object-fit: contain; /* Ensures scaling without pixelation */
   }
-
-  /* You can use this Grid alternative if you prefer */
-  /*
-  .affiliation-images {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    justify-items: center;
-    gap: 20px;
-  }
-
-  .affiliation-images img {
-    width: 150px;
-    height: auto;
-  }
-  */
 </style>
+
 
 
     <!-- Social -->
