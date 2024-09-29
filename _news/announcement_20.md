@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 31-10-2022 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Selected  Amazon Applied Scientist Intern for summer'23.
+Selected into Google Explore ML with Crowdsource facilitator program.

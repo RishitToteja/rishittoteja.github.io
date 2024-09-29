@@ -1,0 +1,8 @@
+---
+layout: post
+date: 20-04-2023 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+Invited as a ![Guest Speaker](https://drive.google.com/file/d/1pPAyhbw1oI51FcY5DIARyHqCXceSKLZm/view) by ![Amity University](https://www.amity.edu/) to give a talk on Transformers and Language Models.
