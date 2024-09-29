@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organized ML Workshop as part of Google Explore ML with Crowdsource facilitator program at ![Jamia University](https://jamiahamdard.edu/).
+Organized ML Workshop as part of Google Explore ML with Crowdsource facilitator program at <a href="https://jamiahamdard.edu/">Jamia University</a>!.

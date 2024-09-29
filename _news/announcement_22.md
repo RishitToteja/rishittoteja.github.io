@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Invited as a ![Guest Speaker](https://drive.google.com/file/d/1pPAyhbw1oI51FcY5DIARyHqCXceSKLZm/view) by ![Amity University](https://www.amity.edu/) to give a talk on Transformers and Language Models.
+Invited as a <a href="https://drive.google.com/file/d/1pPAyhbw1oI51FcY5DIARyHqCXceSKLZm/view">Guest Speaker</a>  <a href="https://www.amity.edu/">Amity University</a> to give a talk on Transformers and Language Models.
+
+
+
