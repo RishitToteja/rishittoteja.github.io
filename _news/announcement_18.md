@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Internship ended with Amazon. Got a inclined return FTE Applied Scientist offer.
+Internship ended with Amazon. Got an inclined return FTE Applied Scientist offer.
