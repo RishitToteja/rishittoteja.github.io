@@ -78,6 +78,16 @@
       "endDate": "2024",
       "score": "9.53",
       "courses": ["Department Gold Medalist"]
+    },
+    {
+      "institution": "Sardar Patel Vidyalaya",
+      "location": "Delhi, India",
+      "url": "https://spvdelhi.org/",
+      "area": "AISSCE (Class XII)",
+      "studyType": "CBSE Board",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93%"
     }
   ],
   "certificates": [
