@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Won 3rd Prize in Innerve Hackathon. ![(Project)]()
+Accepted into Google Research Week program in India.
+

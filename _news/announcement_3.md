@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Won my first hacakthon (Innovathon). Our team got first prize and INR 10,000. ![(Project)]()

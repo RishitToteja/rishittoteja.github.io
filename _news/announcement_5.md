@@ -5,4 +5,9 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Won Second Prize in Bosch Global Software Technologies Hackathon. Recieved a prize of INR 35k. Got a chance to intern with Bosch as a Software Developer in Bangalore.
+
+
+
+
+

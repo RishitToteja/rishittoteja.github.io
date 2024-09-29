@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Won 3rd Prize in Innerve Hackathon. ![(Project)]()
+Got offer from Microsoft as a research Fellow with the PROSE team.
+

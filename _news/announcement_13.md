@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won 3rd Prize in Innerve Hackathon. ![(Project)]()
+Got a return re-internship offer from Amazon as an Applied Scientist for 6 months.

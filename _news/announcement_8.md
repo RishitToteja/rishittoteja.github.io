@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Got on campus internship offer from Accenture and return offer from Bosch.

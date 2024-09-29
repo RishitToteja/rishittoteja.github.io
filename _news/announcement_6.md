@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started as an SDE Intern in Bosch Global Software Technologies. I'll be working on Deploying Metaverse components on edge devices like Oculus and HoloLens.

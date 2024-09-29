@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started Minor Degree in Computer Science and Engineering from DTU.
