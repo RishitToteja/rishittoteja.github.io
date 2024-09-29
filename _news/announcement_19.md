@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Microsoft As a Research Fellow with the PROSE Team (led by Sumit Gulwani) working on CoPilot and Formula Intelligence for Excel Spreadsheets
+Joined Microsoft As a Research Fellow with the PROSE Team (led by Sumit Gulwani) working on CoPilot and Formula Intelligence for Excel Spreadsheets.

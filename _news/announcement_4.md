@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won 3rd Prize in Innerve Hackathon. ![(Project)]()
+Won 3rd Prize in Innerve Hackathon.
