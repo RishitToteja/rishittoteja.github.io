@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Invited as a ![Cheif Guest](https://drive.google.com/file/d/1R4T5RhHkoKg2Xhdp4Q1Q8sTL-tmFKiV-/view) by <a href="https://www.psit.ac.in/">PSIT University</a> to give a talk on Basics of ML and Deep Learning.
+Invited as a <a href="https://drive.google.com/file/d/1R4T5RhHkoKg2Xhdp4Q1Q8sTL-tmFKiV-/view">Cheif Guest</a> by <a href="https://www.psit.ac.in/">PSIT University</a> to give a talk on Basics of ML and Deep Learning.
 
 
