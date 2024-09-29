@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 11-01-2024 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Accepted into Google Research Week program in India.
-
+Selected as one of the two undergrads from DTU for attending the "Research Week with Google 2024", a graduate level symposium organised by Google Research India.
