@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won my first hacakthon (Innovathon). Our team got first prize and INR 10,000. ![(Project)](https://github.com/RishitToteja/TensorGANs_innovathon2021)
+Won my first hacakthon (Innovathon). Our team got first prize and INR 10,000 !. <a href="https://github.com/RishitToteja/TensorGANs_innovathon2021">(Project)</a>
