@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining Amazon as an Applied Scientist. Working with the World Wide Pricing Team.
+Joined Amazon as an Applied Scientist. Working with the World Wide Pricing Team.
