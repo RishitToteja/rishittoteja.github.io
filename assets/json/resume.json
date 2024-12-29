@@ -17,11 +17,20 @@
   },
   "work": [
     {
+      "name": "Amazon, India",
+      "position": "Applied Scientist",
+      "url": "https://www.amazon.science/author/rishit-toteja",
+      "startDate": "Dec, 2024",
+      "endDate": "Present",
+      "summary": "Working with World Wide Pricing Team",
+      "_highlights": ["Relativity"]
+    },
+    {
       "name": "Microsoft, Redmond",
       "position": "Research Fellow",
       "url": "https://www.microsoft.com/en-us/research/group/prose/interns-research-fellows/",
       "startDate": "Jul, 2024",
-      "endDate": "Present",
+      "endDate": "Nov, 2024",
       "summary": "Resident at the Microsoft Program Synthesis (PROSE Team) Research Fellowship Program",
       "_highlights": ["Relativity"]
     },
