@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got offer from Microsoft as a research Fellow with the PROSE team.
+Got offer from Microsoft as a Research Fellow with the PROSE team.
