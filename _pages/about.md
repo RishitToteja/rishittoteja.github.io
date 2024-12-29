@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.amazon.science/author/rishit-toteja'>Applied Scientist Amazon</a>
+subtitle: <a href='https://www.amazon.science/author/rishit-toteja'>Applied Scientist at Amazon</a>
 
 profile:
   align: right
