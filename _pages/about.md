@@ -9,7 +9,7 @@ profile:
   image: prof_pic_amazon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Amazon</p>
+    <p>Amazon<br></p>
     <p>Bangalore, India</p>
 
 news: true # includes a list of news items
